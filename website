@@ -1,1 +1,19 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome Mid-2000s Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Awesome Website!</h1>
+        <img src="https://via.placeholder.com/200x150.gif?text=Cool+Animated+GIF" alt="Cool animated GIF">
+        <p>Hey there! This is my super cool website. I'm so excited you're here!</p>
+        <p class="blink">Our members are the coolest!</p>
+        <button class="button">Check out our members!</button>
+        <marquee class="marquee">Thanks for visiting my website! Don't forget to sign my guestbook!</marquee>
+    </div>
+</body>
+</html>
